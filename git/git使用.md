@@ -210,9 +210,9 @@ git status
 git pull origin 分支名称
 ```
 
-
-#### 10命令学习
+#### 10克隆共享远程仓库到本地
 
 ```
-坚持更新GitHub坚持学习
+git clone https://github.com/xxxx/xxxx.git
 ```
+
